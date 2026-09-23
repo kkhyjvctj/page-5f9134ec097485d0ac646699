@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "bc26b4abbfba80c9e1f752f8",
+  "owner": "kkhyjvctj",
+  "repo": "page-5f9134ec097485d0ac646699",
+  "title": "新狮云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "5f9134ec097485d0ac646699",
+      "a": "新狮云",
+      "b": "稳定全球clash加速器",
+      "entity": "新狮云",
+      "brand": "新狮云",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "eafc40d189b391f6fc34c8bc0d11334125c829bf182c75ca4adb9543cb52c29c",
+      "content": {
+        "primary_entity": "新狮云",
+        "keyword1": "新狮云",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择对应客户端，查阅订阅导入步骤。",
+          "AI_CLIENTS_TITLE": "多设备客户端选择",
+          "AI_CLOSING_TEXT": "按设备数量与月流量需求选定套餐，导入订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "选对套餐，稳定连接",
+          "AI_DESCRIPTION": "，围绕月流量、在线设备数与订阅周期设计三档套餐，基础版每月100GB支持3台设备，旗舰版每月300GB支持5台设备并配有IPLC专线游戏加速，团队版每月1000GB支持20台设备，可按年付节省费用。",
+          "AI_FEATURES_INTRO": "从流量、设备数量与订阅周期三个角度对比，找到适合日常使用的版本。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版每月100GB流量、3台设备，适合手机与电脑轻量使用。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月300GB流量、5台设备，IPLC专线优化游戏与流媒体。",
+          "AI_FEATURE_TEXT_3": "团队版每月1000GB流量、20台设备，支持企业定制路由需求。",
+          "AI_FEATURE_TITLE_1": "按流量选版本",
+          "AI_FEATURE_TITLE_2": "按设备数匹配",
+          "AI_FEATURE_TITLE_3": "按周期省费用",
+          "AI_GUIDE_INTRO": "先确认设备与用量，再按客户端文档完成订阅导入。",
+          "AI_GUIDE_TITLE": "三步完成配置",
+          "AI_HERO_INTRO": "新狮云提供多档流量套餐，覆盖手机、电脑与路由器等常见设备，按客户端文档导入订阅后即可使用，年付方案比月付更省费用。",
+          "AI_HERO_SUBTITLE": "多设备订阅，按需选择套餐",
+          "AI_HIGHLIGHT_1": "三档套餐按流量区分",
+          "AI_HIGHLIGHT_2": "支持3至20台设备在线",
+          "AI_HIGHLIGHT_3": "年付方案节省月付支出",
+          "AI_PLANS_INTRO": "基础版¥15/月，旗舰版¥35/月，团队版¥85/月，按年付分别仅需¥150、¥350、¥850。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据常用设备数量与每月流量需求，从三档套餐中选择合适版本。",
+          "AI_STEP_TEXT_2": "查看所选客户端对系统版本和网络环境的要求，确认设备可以正常安装。",
+          "AI_STEP_TEXT_3": "按照对应客户端文档导入订阅地址，保存后选择节点即可连接使用。",
+          "AI_STEP_TITLE_1": "选择服务版本",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置客户端订阅",
+          "AI_VISUAL_TITLE": "新狮云套餐选择",
+          "AI_FAQ_ANSWER_1": "基础版适合每月流量需求在100GB以内、同时使用3台以内设备的场景；旗舰版提供300GB流量与5台设备，并带IPLC专线游戏加速优化；团队版1000GB流量与20台设备，适合小团队多终端使用。",
+          "AI_FAQ_ANSWER_2": "在客户端中导入订阅链接即可使用。不同设备系统可选择对应客户端，按客户端说明完成订阅导入后连接节点。",
+          "AI_FAQ_ANSWER_3": "基础版支持3台设备同时在线，旗舰版支持5台，团队版支持20台。如需更多设备，可选择更高档位套餐。",
+          "AI_FAQ_ANSWER_4": "支持月付和年付两种周期。基础版年付¥150/年，旗舰版年付¥350/年，团队版年付¥850/年，按年付价格更优。",
+          "AI_FAQ_ANSWER_5": "旗舰版提供IPLC专线游戏加速优化与7x24优先工单支持，适合对延迟和响应速度有要求的游戏场景。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "新狮云各档套餐分别适合什么使用场景？",
+          "AI_FAQ_QUESTION_2": "新狮云订阅如何导入客户端？",
+          "AI_FAQ_QUESTION_3": "套餐中的设备数量如何计算？",
+          "AI_FAQ_QUESTION_4": "新狮云支持哪些计费周期？",
+          "AI_FAQ_QUESTION_5": "旗舰版在游戏加速方面有什么特点？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--29sob821f20x.com",
+    "host": "xn--29sob821f20x.com"
+  },
+  "file_hashes": {
+    "index.html": "9fc7eb79515278daf276c73b9d222f1eae8ad0afaafc2e75b8340b8c31dc1d65",
+    "sitemap.xml": "8ea801131feac09ca262feaec011b8104bfd96c869349dc32ce05224e6526672",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "e4e6444c3f25db529a0fae64e00af1e28a273ee92cac1ca5a2e9eddf0d9dad9b",
+    "robots.txt": "2a1451c509c59fd016fccc12d3019c6e9427f851c29dd41f1d11ff3ef7ac63b5",
+    "4a9c51951ea47831b41397031a4fcd15.txt": "68bdfeac5e48d455effef922ef42a5b05d3654c54248f1d0955d312dbcd52754"
+  },
+  "revision": "081495262dcb25f1bce4e35aa5128c814809403d85a7badbedd91503f3436249"
+}

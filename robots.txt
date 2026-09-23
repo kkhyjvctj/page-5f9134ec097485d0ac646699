@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://xn--29sob821f20x.com/sitemap.xml
